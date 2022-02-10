@@ -1,0 +1,7 @@
+int sizeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.
+int sum.
+move 55555555555 to size.
+loop size times {ignore me, I am a comment}  
+[ out size, newline.
+ add size to sum. ]
+out newline, "Sum:", sum.

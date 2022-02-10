@@ -1,0 +1,31 @@
+Keyword : int
+EndOfLine
+Keyword : int
+Identifier : sum
+EndOfLine
+Keyword : move
+Keyword : to
+Identifier : size
+EndOfLine
+Keyword : loop
+Identifier : size
+Keyword : times
+OpenBlock
+Keyword : out
+Identifier : size
+Seperator
+Keyword : newline
+EndOfLine
+Keyword : add
+Identifier : size
+Keyword : to
+Identifier : sum
+EndOfLine
+CloseBlock
+Keyword : out
+Keyword : newline
+Seperator
+StringConstant : "Sum:"
+Seperator
+Identifier : sum
+EndOfLine
