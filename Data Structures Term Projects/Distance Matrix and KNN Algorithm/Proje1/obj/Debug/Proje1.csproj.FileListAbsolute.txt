@@ -1,0 +1,7 @@
+C:\Users\kutay\OneDrive\Masaüstü\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\kutay\OneDrive\Masaüstü\Proje1\bin\Debug\Proje1.exe
+C:\Users\kutay\OneDrive\Masaüstü\Proje1\bin\Debug\Proje1.pdb
+C:\Users\kutay\OneDrive\Masaüstü\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\kutay\OneDrive\Masaüstü\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\kutay\OneDrive\Masaüstü\Proje1\obj\Debug\Proje1.exe
+C:\Users\kutay\OneDrive\Masaüstü\Proje1\obj\Debug\Proje1.pdb
